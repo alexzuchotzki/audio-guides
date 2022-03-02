@@ -1,0 +1,9 @@
+As the name implies, a high-pass filter will pass high frequencies, while attenuating low frequencies. 
+A low-pass filter does the inverse, passing low frequencies, and attenuating high frequencies.
+
+They can be implemented digitally, or analogue, although digitally is preferred towards the subwoofer region, as analogue filters may require expensive inductors.
+
+Primary uses: Inside a speaker crossover, or integrating a subwoofer with speakers.
+
+
+
