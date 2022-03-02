@@ -1,0 +1,8 @@
+aka Band-Stop Filter.
+
+This type of filter will attenuate frequencies at a specific point, called the centre frequency, while passing other frequencies.
+
+The Q value defines the width of the filter.
+
+A parallel notch filter will cause an impedance rise in an analogue circuit, a series notch filter will cause an impedance drop.
+
