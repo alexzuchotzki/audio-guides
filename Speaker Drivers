@@ -1,0 +1,9 @@
+Tweeter - Responsible for producing treble.
+
+Woofer - Responsible for producing mid-range and/or bass depending on design.
+
+Subwoofer - Responsible for producing bass, sub-bass, and/or infra-sonics depending on design.
+
+The human hearing range is approximately 20-20000Hz in young people, some high frequencies are lost with aging. 
+
+In order to cover the entire bandwidth, multiple drivers are required. The mass and weight of a large driver inherently limits high frequency production, and the lack of air displacement in small drivers limits low frequency production.
